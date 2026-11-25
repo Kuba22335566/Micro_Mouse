@@ -2,9 +2,9 @@
 Projekt Micro_Mouse  
 Po przeczytaniu pliku dowiesz się jak krok po kroku będziemy robili tego robota.
 
-Kamienie Milowe:
+###Kamienie Milowe:
 
-[KM 1: SPRZĘT & STEROWNIKI] ───► [KM 2: ALGORYTM FLOODFILL] ───► [KM 3: KONSTRUKCJA & TESTY JAZDY/OPTYMALIZACJA]
+**[KM 1: SPRZĘT & STEROWNIKI] ───► [KM 2: ALGORYTM FLOODFILL] ───► [KM 3: KONSTRUKCJA & TESTY JAZDY/OPTYMALIZACJA]
 
 ### KM 1: Warstwa sprzętowa i sterowniki (HAL)
 *Cel: Uruchomienie i przetestowanie każdego podzespołu "na biurku" (makieta testowa).*
