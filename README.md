@@ -4,8 +4,6 @@ Autonomiczny robot klasy **Micromouse** oparty na mikrokontrolerze **ESP32-WROVE
 
 Poniżej znajduje się plan realizacji projektu podzielony na trzy główne etapy.
 
-![Plan budowy robota Micromouse](assets/roadmap.png)
-
 ## 🗺️ Kamienie Milowe
 
 ```text
