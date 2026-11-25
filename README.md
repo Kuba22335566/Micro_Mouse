@@ -6,8 +6,6 @@ Kamienie Milowe:
 
 [KM 1: SPRZĘT & STEROWNIKI] ───► [KM 2: ALGORYTM FLOODFILL] ───► [KM 3: KONSTRUKCJA & TESTY JAZDY/OPTYMALIZACJA]
 
-![Plan budowy robota Micromouse](assets/roadmap.png)
-
 ### KM 1: Warstwa sprzętowa i sterowniki (HAL)
 *Cel: Uruchomienie i przetestowanie każdego podzespołu "na biurku" (makieta testowa).*
 * **ESP32-WROVER-IE:** Konfiguracja mikrokontrolera (rezerwacja pinów, eliminacja konfliktów z PSRAM i ADC2).
